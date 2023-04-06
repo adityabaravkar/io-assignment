@@ -2,12 +2,12 @@
 
 ## Execution steps:
 
-### 1. Open terminal.
+- Open terminal.
 
-### 2. Navigate to project directory.
+- Navigate to project directory.
 
-### 3. Execute "pipenv shell".
+- Execute "pipenv shell".
 
-### 4. Execute "pipenv install".
+- Execute "pipenv install".
 
-### 5. Execute "flask run".
+- Execute "flask run".
